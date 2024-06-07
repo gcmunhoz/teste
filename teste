@@ -1,3 +1,4 @@
 x=2
 y=2*x
 z = y**x
+# faltou colocar uma definição
